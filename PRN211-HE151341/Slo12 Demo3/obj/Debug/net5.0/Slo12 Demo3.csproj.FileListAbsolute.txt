@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\bin\Debug\net5.0\Slo12 Demo3.exe
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\bin\Debug\net5.0\Slo12 Demo3.deps.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\bin\Debug\net5.0\Slo12 Demo3.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\bin\Debug\net5.0\Slo12 Demo3.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\bin\Debug\net5.0\Slo12 Demo3.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\bin\Debug\net5.0\Slo12 Demo3.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\refint\Slo12 Demo3.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\Slo12 Demo3.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slo12 Demo3\obj\Debug\net5.0\ref\Slo12 Demo3.dll

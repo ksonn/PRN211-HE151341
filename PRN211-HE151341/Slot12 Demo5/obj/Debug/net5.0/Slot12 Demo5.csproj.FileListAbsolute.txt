@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\bin\Debug\net5.0\Slot12 Demo5.exe
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\bin\Debug\net5.0\Slot12 Demo5.deps.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\bin\Debug\net5.0\Slot12 Demo5.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\bin\Debug\net5.0\Slot12 Demo5.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\bin\Debug\net5.0\Slot12 Demo5.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\bin\Debug\net5.0\Slot12 Demo5.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\refint\Slot12 Demo5.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\Slot12 Demo5.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\Slot12 Demo5\obj\Debug\net5.0\ref\Slot12 Demo5.dll
