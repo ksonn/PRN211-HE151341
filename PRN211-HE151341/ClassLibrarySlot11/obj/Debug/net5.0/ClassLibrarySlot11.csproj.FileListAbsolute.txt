@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\bin\Debug\net5.0\ClassLibrarySlot11.deps.json
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\bin\Debug\net5.0\ClassLibrarySlot11.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\bin\Debug\net5.0\ClassLibrarySlot11.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ClassLibrarySlot11.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ClassLibrarySlot11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ClassLibrarySlot11.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ClassLibrarySlot11.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ClassLibrarySlot11.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ClassLibrarySlot11.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\refint\ClassLibrarySlot11.dll
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ClassLibrarySlot11.pdb
+C:\Users\ADMIN\Documents\GitHub\PRN211_HE150537\ClassLibrarySlot11\obj\Debug\net5.0\ref\ClassLibrarySlot11.dll
