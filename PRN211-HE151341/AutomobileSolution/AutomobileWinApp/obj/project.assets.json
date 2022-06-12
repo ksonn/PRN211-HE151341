@@ -27,24 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\1 PRN211\\sample\\PRN211_HE150537\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\PRN211_HE150537\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
       "projectName": "AutomobileWinApp",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\1 PRN211\\sample\\PRN211_HE150537\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\1 PRN211\\sample\\PRN211_HE150537\\AutomobileSolution\\AutomobileWinApp\\obj\\",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\PRN211_HE150537\\AutomobileSolution\\AutomobileWinApp\\AutomobileWinApp.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\PRN211_HE150537\\AutomobileSolution\\AutomobileWinApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Documents\\1 PRN211\\sample\\PRN211_HE150537\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Documents\\1 PRN211\\sample\\PRN211_HE150537\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
+            "C:\\Users\\ADMIN\\Documents\\GitHub\\PRN211_HE150537\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\PRN211_HE150537\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
             }
           }
         }
@@ -91,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

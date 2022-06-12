@@ -29,7 +29,7 @@ namespace AutomobileWinApp
 
         private void DgvCarList_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            frmCarDetails frmCarDetails = new frmCarDetails
+            frmCarDetails frmCarDetails = new frmCarDetails()
             {
                 Text = "Update car",
                 InsertOrUpdate = true,

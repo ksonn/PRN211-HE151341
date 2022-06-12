@@ -41,68 +41,67 @@
             this.lbCarID = new System.Windows.Forms.Label();
             this.txtCarID = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
+            this.Load += new System.EventHandler(this.frmCarDetails_Load);
+                 
             // 
             // lbCarName
             // 
             this.lbCarName.AutoSize = true;
-            this.lbCarName.Location = new System.Drawing.Point(82, 77);
+            this.lbCarName.Location = new System.Drawing.Point(72, 58);
             this.lbCarName.Name = "lbCarName";
-            this.lbCarName.Size = new System.Drawing.Size(75, 20);
+            this.lbCarName.Size = new System.Drawing.Size(60, 15);
             this.lbCarName.TabIndex = 1;
             this.lbCarName.Text = "Car Name";
             // 
             // lbManufacturer
             // 
             this.lbManufacturer.AutoSize = true;
-            this.lbManufacturer.Location = new System.Drawing.Point(82, 136);
+            this.lbManufacturer.Location = new System.Drawing.Point(72, 102);
             this.lbManufacturer.Name = "lbManufacturer";
-            this.lbManufacturer.Size = new System.Drawing.Size(97, 20);
+            this.lbManufacturer.Size = new System.Drawing.Size(79, 15);
             this.lbManufacturer.TabIndex = 2;
             this.lbManufacturer.Text = "Manufacturer";
             // 
             // lbPrice
             // 
             this.lbPrice.AutoSize = true;
-            this.lbPrice.Location = new System.Drawing.Point(82, 199);
+            this.lbPrice.Location = new System.Drawing.Point(72, 149);
             this.lbPrice.Name = "lbPrice";
-            this.lbPrice.Size = new System.Drawing.Size(41, 20);
+            this.lbPrice.Size = new System.Drawing.Size(33, 15);
             this.lbPrice.TabIndex = 3;
             this.lbPrice.Text = "Price";
             // 
             // lbReleaseYear
             // 
             this.lbReleaseYear.AutoSize = true;
-            this.lbReleaseYear.Location = new System.Drawing.Point(82, 260);
+            this.lbReleaseYear.Location = new System.Drawing.Point(72, 195);
             this.lbReleaseYear.Name = "lbReleaseYear";
-            this.lbReleaseYear.Size = new System.Drawing.Size(92, 20);
+            this.lbReleaseYear.Size = new System.Drawing.Size(71, 15);
             this.lbReleaseYear.TabIndex = 4;
             this.lbReleaseYear.Text = "Release Year";
             // 
             // txtCarName
             // 
-            this.txtCarName.Location = new System.Drawing.Point(215, 77);
-            this.txtCarName.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtCarName.Location = new System.Drawing.Point(188, 58);
             this.txtCarName.Name = "txtCarName";
-            this.txtCarName.Size = new System.Drawing.Size(269, 27);
+            this.txtCarName.Size = new System.Drawing.Size(236, 23);
             this.txtCarName.TabIndex = 6;
             // 
             // txtPrice
             // 
-            this.txtPrice.Location = new System.Drawing.Point(215, 188);
-            this.txtPrice.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtPrice.Location = new System.Drawing.Point(188, 141);
             this.txtPrice.Mask = "000000000";
             this.txtPrice.Name = "txtPrice";
-            this.txtPrice.Size = new System.Drawing.Size(269, 27);
+            this.txtPrice.Size = new System.Drawing.Size(236, 23);
             this.txtPrice.TabIndex = 7;
             this.txtPrice.Text = "0";
             // 
             // txtReleaseYear
             // 
-            this.txtReleaseYear.Location = new System.Drawing.Point(215, 249);
-            this.txtReleaseYear.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtReleaseYear.Location = new System.Drawing.Point(188, 187);
             this.txtReleaseYear.Mask = "0000";
             this.txtReleaseYear.Name = "txtReleaseYear";
-            this.txtReleaseYear.Size = new System.Drawing.Size(269, 27);
+            this.txtReleaseYear.Size = new System.Drawing.Size(236, 23);
             this.txtReleaseYear.TabIndex = 8;
             this.txtReleaseYear.Text = "0";
             // 
@@ -118,55 +117,55 @@
             "Kia",
             "Suzuki",
             "Toyota"});
-            this.cboManufacturer.Location = new System.Drawing.Point(215, 136);
-            this.cboManufacturer.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.cboManufacturer.Location = new System.Drawing.Point(188, 102);
             this.cboManufacturer.Name = "cboManufacturer";
-            this.cboManufacturer.Size = new System.Drawing.Size(269, 28);
+            this.cboManufacturer.Size = new System.Drawing.Size(236, 23);
             this.cboManufacturer.TabIndex = 9;
             // 
             // btnSave
             // 
             this.btnSave.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.btnSave.Location = new System.Drawing.Point(215, 320);
-            this.btnSave.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnSave.Location = new System.Drawing.Point(188, 240);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(86, 31);
+            this.btnSave.Size = new System.Drawing.Size(75, 23);
             this.btnSave.TabIndex = 10;
             this.btnSave.Text = "Save";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnCancel
             // 
             this.btnCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnCancel.Location = new System.Drawing.Point(365, 320);
-            this.btnCancel.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnCancel.Location = new System.Drawing.Point(319, 240);
             this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(86, 31);
+            this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 11;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = true;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // lbCarID
             // 
             this.lbCarID.AutoSize = true;
-            this.lbCarID.Location = new System.Drawing.Point(82, 27);
+            this.lbCarID.Location = new System.Drawing.Point(72, 20);
             this.lbCarID.Name = "lbCarID";
-            this.lbCarID.Size = new System.Drawing.Size(50, 20);
+            this.lbCarID.Size = new System.Drawing.Size(39, 15);
             this.lbCarID.TabIndex = 12;
             this.lbCarID.Text = "Car ID";
             // 
             // txtCarID
             // 
-            this.txtCarID.Location = new System.Drawing.Point(215, 24);
+            this.txtCarID.Location = new System.Drawing.Point(188, 18);
+            this.txtCarID.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtCarID.Name = "txtCarID";
-            this.txtCarID.Size = new System.Drawing.Size(125, 27);
+            this.txtCarID.Size = new System.Drawing.Size(110, 23);
             this.txtCarID.TabIndex = 13;
             // 
             // frmCarDetails
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(914, 600);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.txtCarID);
             this.Controls.Add(this.lbCarID);
             this.Controls.Add(this.btnCancel);
@@ -179,7 +178,6 @@
             this.Controls.Add(this.lbPrice);
             this.Controls.Add(this.lbManufacturer);
             this.Controls.Add(this.lbCarName);
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmCarDetails";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmCarDetails";
